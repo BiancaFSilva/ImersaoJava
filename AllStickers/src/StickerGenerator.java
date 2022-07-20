@@ -34,7 +34,7 @@ public class StickerGenerator
         graphics.setFont(font);
 
         // Escrever/desenhar na imagem
-        graphics.drawString("Imersão Java", 100, newHeight - 100);
+        graphics.drawString(archiveName, 100, newHeight - 100);
 
         // Gravar imagem em um novo arquivo
         ImageIO.write(newTranslucentImg, "png", new File("output/" + archiveName));

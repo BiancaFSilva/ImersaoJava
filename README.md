@@ -5,7 +5,7 @@
 </p>
 
 ## :bookmark: Sobre
-Projeto desenvolvida durante a Imersão Java com o objetivo de criar, consumir e publicar uma API java funcional de listagem de filmes a partir do [IMDb Top 250 Movies](https://www.imdb.com/chart/top/).
+Projeto desenvolvida durante a Imersão Java com o objetivo de criar uma API java funcional que gera e compartilha pacotes de figurinhas a partir de APIs como o [IMDb Top 250 Movies](https://www.imdb.com/chart/top/) e o [Nasa Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html).
 
 ### :rocket: Conteúdo
   - Aula 01: Consumindo uma API de filmes com Java

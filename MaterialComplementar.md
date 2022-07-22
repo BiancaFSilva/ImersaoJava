@@ -84,7 +84,7 @@
 - Artigo [“Spring: Conheça esse framework Java”](https://www.alura.com.br/artigos/spring-conheca-esse-framework-java).
 - Alura+ [Introdução ao Postman](https://www.youtube.com/watch?v=op81bMbgZXs&ab_channel=AluraCursosOnline).
 
-# Aula 5: Publicando nossa API no Cloud
+# Aula 05: Publicando nossa API no Cloud
 ## Links citados
 - [Dev em T: especialista x generalista](https://www.alura.com.br/dev-em-t).
 - Site do [Heroku](https://www.heroku.com/), que é um PaaS (plataforma como serviço).
